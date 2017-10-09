@@ -8,7 +8,7 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 
 ![alt tag](images/frame.jpg)
 
-## Results on BSDS500
+## Results on [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
 ![alt tag](images/results.jpg)
 
@@ -18,3 +18,30 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 - Python 2.7
 - [TensorFlow==0.12.1+](https://www.tensorflow.org/)
 - [TensorLayer==1.4+](https://github.com/zsdonghao/tensorlayer)
+
+### Pretrained models
+The pre-trained model for VGG16 is available [here](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz).
+
+## Trained model with BSDS500
+
+The trained model for Contour results without GAN model is available [here](https://pan.baidu.com/s/1cnSFZg),password 5y6q.
+
+##
+### Acknowledgment
+
+This code is based on HED and DCGAN . Thanks to the contributors of those.
+
+    @inproceedings{xie2015holistically,
+      title={Holistically-nested edge detection},
+      author={Xie, Saining and Tu, Zhuowen},
+      booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+      pages={1395--1403},
+      year={2015}
+    }
+    @InProceedings{xie15hed,
+      author = {"Xie, Saining and Tu, Zhuowen"},
+      Title = {Holistically-Nested Edge Detection},
+      Booktitle = "Proceedings of IEEE International Conference on Computer Vision",
+      Year  = {2015},
+    }
+
