@@ -22,7 +22,7 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 ### Pretrained models
 The pre-trained model for VGG16 is available [here](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz).
 
-## Trained model with BSDS500
+### Trained model with BSDS500
 
 The trained model for Contour results without GAN model is available [here](https://pan.baidu.com/s/1cnSFZg),pass word "5y6q".
 and evaluate resluts can be download them from [here](https://pan.baidu.com/s/1nv3LhUD),pass word "jawr".
