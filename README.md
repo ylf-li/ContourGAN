@@ -24,8 +24,7 @@ The pre-trained model for VGG16 is available [here](https://www.cs.toronto.edu/~
 
 ### Trained model with BSDS500
 
-The trained model for Contour results without GAN model is available [here](https://pan.baidu.com/s/1cnSFZg),pass word "5y6q".
-and evaluate resluts can be download them from [here](https://pan.baidu.com/s/1nv3LhUD),pass word "jawr".
+The trained model for Contour results without GAN model is available [here](http://pan.baidu.com/s/1eSiwFS2),pass word "vtrk".
 
 ##
 ### Acknowledgment
