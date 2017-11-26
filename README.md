@@ -6,11 +6,11 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 
 ## Framework
 
-![alt tag](images/appendix.png)
+![alt tag](images/frame.jpg)
 
 ## Results on [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
-![alt tag](images/Graphical abstracts.jpg)
+![alt tag](images/appendix.png)
 
 
 ## Prerequisites
