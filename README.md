@@ -6,7 +6,7 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 
 ## Framework
 
-![alt tag](images/frame.jpg)
+![alt tag](images/appendix.png)
 
 ## Results on [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
