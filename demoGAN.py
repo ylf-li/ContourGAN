@@ -68,7 +68,7 @@ dis_vars   = tl.layers.get_variables_with_name('discriminator', True, True)
 regularizer=tf.contrib.layers.apply_regularization(\
              tf.contrib.layers.l2_regularizer(weight_decay),vgg_vars+gen_vars)
 g_gan_loss = tl.cost.sigmoid_cross_entropy(d_logits, tf.ones_like(d_logits), name='gfake')
-loss_context = tf.nn.weighted_cross_entropy_with_logits(pred,GT,15)
+loss_context = tf.nn.weighted_cross_entropy_with_logits(GT,pred,15)
 loss_context = tf.reduce_mean(loss_context)+regularizer
 g_loss = loss_context + 0.01*g_gan_loss
 tf.summary.scalar('loss_context', loss_context)
