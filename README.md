@@ -8,10 +8,6 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 
 ![alt tag](images/frame.jpg)
 
-## Results on [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
-
-![alt tag](images/appendix.png)
-
 
 ## Prerequisites
 
@@ -22,9 +18,7 @@ In this paper, we developed an encoder-decoder convolutional framework to extrac
 ### Pretrained models
 The pre-trained model for VGG16 is available [here](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz).
 
-### Trained model with BSDS500
 
-The trained model for Contour results without GAN model is available [here](http://pan.baidu.com/s/1eSiwFS2),pass word "vtrk".
 
 ##
 ### Acknowledgment
